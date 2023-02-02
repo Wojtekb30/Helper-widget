@@ -28,3 +28,11 @@ Type or paste the text to translate into the big text field down (the one in whi
 ![image](https://user-images.githubusercontent.com/112283903/216394926-5f804514-e1f1-45a4-805b-49eb231f4aa2.png)
 ![image](https://user-images.githubusercontent.com/112283903/216395075-8d7a0773-ae48-4388-966b-7168b6bd4831.png)
 ![image](https://user-images.githubusercontent.com/112283903/216395146-c5ca58a3-1125-4684-8597-d4d1167ded3e.png)
+
+<b> Screenshots (Linux Ubuntu Mate): </b>
+
+![image](https://user-images.githubusercontent.com/112283903/216431866-c3bfcc54-cd3c-41ca-b952-d6db33ca02c0.png)
+
+![image](https://user-images.githubusercontent.com/112283903/216432076-a7bfa6b3-837e-4ac0-9eb0-aa46346abf27.png)
+![image](https://user-images.githubusercontent.com/112283903/216432166-c94a07d1-1921-4afd-b5f2-b9fb7d28e8bd.png)
+
