@@ -1,5 +1,5 @@
 # Helper widget
-A Python desktop widget which supports Wolfram Alpha and language translator. Ask it anything!
+A desktop widget written in Python which supports Wolfram Alpha and language translator. Ask it anything!
 
 <b> Download and what to do before the first launch: </b>
 
@@ -20,7 +20,7 @@ Underneath there are two buttons. Click "Send to Wolfram" button to send the tex
 
 Translator:
 
-Type or paste the text to translate into the big text field down (the one in which Wolfram Alpha's answers appear). In the question field (the text input on top) type source and destination language, separate them with "-" (for example pl-en, es-japanese, auto-en [in these examples: pl-en will translate from Polish to English, es-japanese from Spanish to Japanese and auto-en will translate from auto-detected language to English]).
+Type or paste the text to translate into the big text field down (the one in which Wolfram Alpha's answers appear). In the question field (the text input on top) type source and destination language, separate them with "-" (for example pl-en, es-japanese, auto-en [in these examples: pl-en will translate from Polish to English, es-japanese from Spanish to Japanese and auto-en will translate from auto-detected language to English]). Then press the "Translate" button.
 
 <b> Screenshots (Windows 10): </b>
 
