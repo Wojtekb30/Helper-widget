@@ -9,7 +9,7 @@ Download the Python file, install needed libraries via pip, before first launch 
 
 Wolfram Alpha API website: https://products.wolframalpha.com/simple-api/documentation
 
-After pasting the valid API key, just run the Python script and use the program.
+After pasting the valid API key, just run the Python script and use the program. You can make it an executable with PyInstaller.
 
 <b> How to use the program? </b>
 
